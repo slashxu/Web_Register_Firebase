@@ -1,10 +1,10 @@
 # Web_Register_Firebase
-Site register with firebase
+Webite register with firebase
 
 Simple registration project containing the following languages:
--HTML
--CSS
--Bootstrap
--Jquery
--Javascript
--Firebase
+<br>-HTML
+<br>-CSS
+<br>-Bootstrap
+<br>-Jquery
+<br>-Javascript
+<br>-Firebase
